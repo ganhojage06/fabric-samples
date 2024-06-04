@@ -6,7 +6,7 @@ client:
   connection:
     timeout:
       peer:
-        endorser: '300'
+        endorser: '3000'
 organizations:
   Org${ORG}:
     mspid: Org${ORG}MSP
